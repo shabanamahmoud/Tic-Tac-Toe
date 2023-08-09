@@ -2,8 +2,8 @@
 
 #Here are the basic rules of tic-tac-toe:/n
 
-1- The game begins with an empty 3x3 grid.
-2- Player  goes first to choose   X or O .
+1- The game begins with an empty 3x3 grid./n
+2- Player  goes first to choose   X or O ./n
 3 - Player 1 goes first and marks one of the empty squares with the chossen X or O.
 4 - Then, player 2 takes their turn and marks one of the remaining empty squares with an "O."
 5 - Players continue taking turns, marking empty squares with their respective symbols, until one of the following conditions is met:
